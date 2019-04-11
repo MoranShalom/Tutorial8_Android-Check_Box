@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tutorial8_Check_box</string>
+    <string name="choose_gender">Choose gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
